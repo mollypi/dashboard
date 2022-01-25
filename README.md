@@ -1,4 +1,6 @@
 <p align="center">
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/54062c45-34be-4851-8ef3-296e1f315b01.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/dashboard?orgId=561911742905)  
   <img src="https://cloud.githubusercontent.com/assets/457834/25781812/a981cf5a-333e-11e7-938e-378de1589b20.png" width="250" alt="Dashboard">
 </p>
 
